@@ -1,0 +1,39 @@
+1."HoneyBooBooBoo"
+
+2.Hasil dari pemanggilan capitals['Germany'] adalah 'Berlin'.
+
+3.akan menghasilkan error karena mencoba menjumlahkan string (a) dengan integer (b).
+
+4.a. >>> letters[1]
+Hasil: "b"
+Penjelasan: Indeks 1 merujuk pada elemen kedua dalam list, yaitu "b".
+
+b. >>> letters[len(letters) - 2]
+Hasil: "c"
+Penjelasan: len(letters) memberikan panjang list, yaitu 5. Jadi, len(letters) - 2 sama dengan 3. Indeks 3 merujuk pada elemen keempat dalam list, yaitu "c".
+
+c. >>> letters + ["x"]
+Hasil: ["a", "b", "o", "c", "p", "x"]
+Penjelasan: Menggabungkan list letters dengan list baru ["x"], menghasilkan list baru tanpa mengubah list asli.
+
+d. >>> letters
+Hasil: ["a", "b", "o", "c", "p"]
+Penjelasan: List asli letters tetap tidak berubah.
+
+5.hasil dari kode tersebut adalah string yang sama seperti input aslinya, yaitu:"h a n d s"
+
+6.hasil dari eksekusi kode tersebut adalah:
+'2': 'deux'
+json.loads(json_string)[1][2]
+jadi satu itu untuk kolom dan dua untuk urutan dari baris
+dan dimulai dari 0
+
+
+
+
+
+
+
+
+
+
